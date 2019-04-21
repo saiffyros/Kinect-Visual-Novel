@@ -1,0 +1,17 @@
+Woman|So, what is your apartment like não?|1|0
+Man|Oh, it's great. There are three bedrooms, a nice kitchen, a living room, and a laundry room.|2|2
+Woman|That sounds nice.|3|2
+Man|Yeah, and there is a swimming pool next to the apartment building. And, uh, I usually study there, you know, the sun and all.|4|1
+Woman|Oh, yeah, right.|5|1
+Man|Oh, and there are two fast food restaurants across the street, so it is a quick way to get a meal.|4|1
+Woman|Um, that sounds good. How much do you pay in rent?|1|1
+Man|Well, I have two roommates, so I pay $275 a month. Uh, that's my share.|2|1
+Woman|Serious? That's a real good price.|1|1
+Man|Yeah, it's not bad.|2|1
+Woman|Um, are utilities included?|1|1
+Man|Uh, gas, water, and electricity are included. The Internet and cable TV are separate.|2|1
+Woman|That's a fabulous price. How on earth did you find a place like that?|1|1
+Man|Just found it online.|2|2
+Woman|Wow. That sounds like a nice apartment.|1|1
+Man|Yeah, come over some time.|2|1
+Woman|Okay. I'll do that.|1|0

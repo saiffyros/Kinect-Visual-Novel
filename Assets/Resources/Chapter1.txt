@@ -1,0 +1,40 @@
+﻿Vincenzo|Por favor, não faz isso com você.|2|4|1
+Vincenzo|Meu amor, eu sei que a depressão não é algo que se cura do dia pra noite.|2|4|1
+Vincenzo|Você está se esforçando tanto... mas você não é uma rocha.|2|4|1
+Vincenzo|Eu entendo que tenha sido difícil permanecer de pé depois de uma acusação como aquela.|2|3|1
+Vincenzo|E ainda por cima achar que você era culpada por tudo o que está acontecendo.|1|3|1
+Vincenzo|Eu também achei que fosse desmoronar...|1|4|1
+Vincenzo|...mas eu me inspirei na sua força.|1|4|1
+Vincenzo|No seu ato de coragem. Eu sei que se afastar de nós foi a decisão mais difícil que você já tomou.|1|4|1
+Malu|Sem conseguir falar, eu me desvencilho do seu abraço e vou até a bancada. Agora sou eu quem precisa beber.|4|0|1
+Malu|Sirvo uma taça pra mim e mais uma pra ele e me encosto na bancada, tomando um grande gole.|3|0|1
+Malu|Eu achei que fosse morrer de tanta falta que eu senti de vocês.|4|1|1
+Vincenzo|Eu sei, Luiza. Eu também não sei como aguentei essa distância.|4|1|1
+Vincenzo|Só não fui atrás de você antes porque queria esclarecer tudo primeiro para te procurar munido de respostas para as suas perguntas.|4|1|1
+Vincenzo|Eu não queria deixar nenhuma dúvida pra você de que o nosso relacionamento não é uma questão para a definição da guarda de Lucca.|4|1|1
+Malu|Isso não muda o fato de eu ser uma pessoa imperfeita e insegura.|5|0|1
+Malu|Eu fecho os olhos e abaixo a cabeça, sentindo um peso sobre ela de repente.|3|0|1
+Malu|Eu sei que estou tentando encontrar desculpas para não merecer o amor desse homem...|4|0|1
+Malu|...porque no fundo eu sei que acreditar que podemos ficar juntos seria uma esperança quase masoquista.|4|0|1
+Vincenzo|Ninguém é perfeito, Luiza, e eu amo você exatamente do jeito que você é.|4|2|1
+Vincenzo|Nunca quis mudar nada em você.|4|2|1
+Vincenzo|Quer dizer, talvez só fazer você enxergar o quanto é especial, e encantadora, e inteligente, e talentosa, e linda...|4|2|1
+Malu|Ele se aproxima de mim devagar e coloca as mãos ao lado do meu corpo, me prendendo contra a bancada.|4|2|1
+Malu|O seu cheiro assim tão perto me desarma e eu termino de virar a taça em um gole só.|3|2|1
+Malu|Pela primeira vez desde que o deixei eu vejo o seu sorriso torto que faz meu coração derreter e eu paro de respirar.|6|5|1
+Malu|Ele se abaixa na minha direção e sinto sua respiração ficar cada vez mais perto.|6|5|1
+Malu|Não, Be... por favor.|5|1|1
+Malu|Eu tenho medo de dar esse passo de novo e o mundo nos provar mais uma vez que não devemos ficar juntos.|5|1|1
+Malu|Já está doendo tanto agora, eu não quero ter que me separar de você mais uma vez...|6|1|1
+Vincenzo|Foda-se o mundo, Luiza.|5|4|1
+Vincenzo|Eu quero você e você me quer.|5|4|1
+Vincenzo|É só isso que importa.|5|4|1
+Vincenzo|A gente pode tudo, desde de que estejamos juntos.|5|3|1
+Vincenzo|Nada mais vai nos separar.|5|3|1
+Vincenzo|Nada.|5|4|1
+Malu|Ele diz, muito perto do meu ouvido.|6|3|1
+Malu|Mas...|6|3|1
+Vincenzo|NÃO!|6|4|1
+Vincenzo|Eu não vou deixar você fugir de novo por medo.|5|4|1
+Vincenzo|Nós vamos enfrentar isso, Luiza.|5|4|1
+Vincenzo|Eu não aceito abrir mão de você.|5|4|1
